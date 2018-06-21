@@ -1,1 +1,3 @@
 echo"testing file">test.txt
+
+Welcome to Java 
